@@ -11,6 +11,8 @@ Yanyu-Pan
            1.寻找最保守spacer功能       
            2.自动生成菌株名 + spacer号排列(简单)        
            3.自动更新本地CRISPR spacer数据库  
+           
+
 ##usage  
 
 ```
