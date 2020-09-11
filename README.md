@@ -13,13 +13,13 @@ Yanyu-Pan
            3.自动更新本地CRISPR spacer数据库  
            
 
-##usage  
+## usage  
 
 ```
 # run
 sh run_CRISPRDetect_popeline.sh
 ```
-##Output
+## Output
 File | Description
 ----------|--------------
 merges.cirsprs | 原始结果
