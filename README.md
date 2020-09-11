@@ -25,4 +25,6 @@ output_compare_crispr | 匹配数据库后结果
 
 效果：
 
-![image](https://github.com/Yanyu-Pan/run_CRISPRDetect_pipeline/blob/master/1599808896(1).jpg)
+![image](https://github.com/Yanyu-Pan/run_CRISPRDetect_pipeline/blob/master/example.png)
+
+
