@@ -7,9 +7,9 @@ Yanyu-Pan
 [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2)  
 [usearch](http://www.drive5.com/usearch/)  
 
-方式：使用CRISPRDetect找出可能的CRISPR序列，然后将其结果文件与本地STEC CRISPR spacer数据库比较,最终生成含有spacer序列号的CRISPR结果文件，  
-后续考虑添加1.寻找最保守spacer功能  
-           2.自动生成菌株名 + spacer号排列（简单） 
+方式：使用CRISPRDetect找出可能的CRISPR序列，然后将其结果文件与本地STEC CRISPR spacer数据库比较,最终生成含有spacer序列号的CRISPR结果文件，后续考虑添加           
+           1.寻找最保守spacer功能       
+           2.自动生成菌株名 + spacer号排列(简单)        
            3.自动更新本地CRISPR spacer数据库  
 ##usage  
 
