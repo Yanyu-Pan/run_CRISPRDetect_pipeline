@@ -1,0 +1,2 @@
+# run_CRISPRDetect_pipeline
+批量查找CRISPR，并与现有spacer数据库比对分配序号
