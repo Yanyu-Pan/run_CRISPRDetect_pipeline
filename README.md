@@ -2,7 +2,7 @@
 批量查找CRISPR，并与现有spacer数据库比对分配序号  
 ## Author  
 Yanyu-Pan  
-## 注意：仅做记录，仅适用本人linxu环境  
+## 注意：仅做记录，仅适用本人linux环境  
 所需软件：    
 [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2)  
 [usearch](http://www.drive5.com/usearch/)  
